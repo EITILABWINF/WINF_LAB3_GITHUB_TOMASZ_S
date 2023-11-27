@@ -1,124 +1,125 @@
-;Lista pˆac firmy;;;;;;;
+;Lista pÂˆac firmy;;;;;;;
 ;;;;;;;;
 ;;;;;;;;
-Lp.;Nazwisko;Imi©;Stanowisko;Dziaˆ;Sekcja;Pensja;Zwolnienia;Urlop
-1;Lubaszka;Krzysztof;Asystent ksi©g.;Ksi©gowo˜†;Kopiarek;$21 888 ;1;11
-2;Piwoäski ;Robert;Asystent admin.;In¾.-Techn.;Drukarek;$23 036 ;1;5
-3;Galaszewska ;Anna;Asystent admin.;In¾.-Techn.;Fax¢w;$23 036 ;2;21
-4;Rogowska;Irena;Spec. d/s oprog.;In¾.-Techn.;Kopiarek;$34 002 ;1;8
-5;Graczyäski ;Jan;Sprzedawca;Sprzeda¾;Kopiarek;$31 914 ;4;42
-6;Murawska ;Urszula;Ksi©gowy;Ksi©gowo˜†;Kopiarek;$26 101 ;8;9
+soil_moisture
+Lp.;Nazwisko;ImiÂ©;Stanowisko;DziaÂˆ;Sekcja;Pensja;Zwolnienia;Urlop
+1;Lubaszka;Krzysztof;Asystent ksiÂ©g.;KsiÂ©gowoÂ˜â€ ;Kopiarek;$21 888 ;1;11
+2;PiwoÃ¤ski ;Robert;Asystent admin.;InÄ¾.-Techn.;Drukarek;$23 036 ;1;5
+3;Galaszewska ;Anna;Asystent admin.;InÄ¾.-Techn.;FaxË˜w;$23 036 ;2;21
+4;Rogowska;Irena;Spec. d/s oprog.;InÄ¾.-Techn.;Kopiarek;$34 002 ;1;8
+5;GraczyÃ¤ski ;Jan;Sprzedawca;SprzedaÄ¾;Kopiarek;$31 914 ;4;42
+6;Murawska ;Urszula;KsiÂ©gowy;KsiÂ©gowoÂ˜â€ ;Kopiarek;$26 101 ;8;9
 7;Andrychowicz;Felicja;Asystent admin.;Admin.;Kopiarek;$23 212 ;3;32
 8;Wachowicz;Janusz;Asystent admin.;Admin.;Kopiarek;$23 212 ;2;24
 9;Koszewska;Amanda;Asystent projektanta;Reklama;Drukarek;$23 239 ;3;32
-10;Czerwiäski;Robert;Asystent projektanta;Reklama;Fax¢w;$23 239 ;2;21
-11;Linus;Maciej;Spec. d/s oprog.;In¾.-Techn.;Fax¢w;$35 480 ;2;16
-12;Bˆa¾ejczyk;Donald;Mˆodszy technik;In¾.-Techn.;Fax¢w;$21 304 ;6;63
-13;Filipowicz;Jolanta;Sprzedawca;Sprzeda¾;Kopiarek;$35 989 ;4;39
-14;Melnik;Jan;Mˆodszy sprzedawca;Sprzeda¾;Kopiarek;$33 301 ;10;11
-15;Soplica;Edward;Specjalista d/s naukowych;Zarz¥dzania;Fax¢w;$37 896 ;3;26
-16;Jasiewicz;Czesˆaw;Asystent admin.;Admin.;Fax¢w;$24 180 ;5;53
-17;Kozikowska;Wiesˆawa;Projektant;Reklama;Kopiarek;$28 859 ;18;19
-18;Zaˆuski;Marek;Sprzedawca;Sprzeda¾;Fax¢w;$37 489 ;5;47
-19;Sˆomczyäski;Piotr;Mˆodszy sprzedawca;Sprzeda¾;Fax¢w;$34 689 ;11;11
+10;CzerwiÃ¤ski;Robert;Asystent projektanta;Reklama;FaxË˜w;$23 239 ;2;21
+11;Linus;Maciej;Spec. d/s oprog.;InÄ¾.-Techn.;FaxË˜w;$35 480 ;2;16
+12;BÂˆaÄ¾ejczyk;Donald;MÂˆodszy technik;InÄ¾.-Techn.;FaxË˜w;$21 304 ;6;63
+13;Filipowicz;Jolanta;Sprzedawca;SprzedaÄ¾;Kopiarek;$35 989 ;4;39
+14;Melnik;Jan;MÂˆodszy sprzedawca;SprzedaÄ¾;Kopiarek;$33 301 ;10;11
+15;Soplica;Edward;Specjalista d/s naukowych;ZarzÄ„dzania;FaxË˜w;$37 896 ;3;26
+16;Jasiewicz;CzesÂˆaw;Asystent admin.;Admin.;FaxË˜w;$24 180 ;5;53
+17;Kozikowska;WiesÂˆawa;Projektant;Reklama;Kopiarek;$28 859 ;18;19
+18;ZaÂˆuski;Marek;Sprzedawca;SprzedaÄ¾;FaxË˜w;$37 489 ;5;47
+19;SÂˆomczyÃ¤ski;Piotr;MÂˆodszy sprzedawca;SprzedaÄ¾;FaxË˜w;$34 689 ;11;11
 20;Semeniuk ;Zygmunt;Asystent admin.;Admin.;Drukarek;$25 147 ;9;9
-21;Urbaäczyk;Helena;Asystent projektanta;Reklama;Kopiarek;$25 176 ;28;28
-22;Grabowski;Paweˆ;Projektant;Reklama;Kopiarek;$30 014 ;7;8
-23;Wojtyra;Wojciech;Asystent admin.;In¾.-Techn.;Drukarek;$25 147 ;1;11
-24;Persiäski;Antoni;Gˆ¢wny in¾ynier;In¾.-Techn.;Fax¢w;$51 879 ;14;15
-25;Nadwi˜laäska;ucja;Sekretarka zespoˆu;Sprzeda¾;Kopiarek;$26 041 ;7;7
-26;M¥czyäska;Olga;Specjalista d/s naukowych;Zarz¥dzania;Kopiarek;$41 053 ;4;42
-27;Lubaäska ;Irena;Asystent admin.;Admin.;Fax¢w;$26 114 ;2;16
-28;Krawczyk;Zygmunt;Ksi©gowy;Ksi©gowo˜†;Drukarek;$30 452 ;2;21
-29;Hubertus;Marek;Mˆodszy ksi©gowy.;Ksi©gowo˜†;Drukarek;$26 646 ;10;11
-30;Mazowiecka;Dagmara;Sekretarka zespoˆu;Ksi©gowo˜†;Kopiarek;$28 044 ;4;39
-31;Ochocka;Anna;Sekretarka zespoˆu;Ksi©gowo˜†;Drukarek;$28 044 ;3;32
-32;Niew©gˆowski;Krzysztof;Asystent admin.;Admin.;Fax¢w;$27 081 ;8;9
-33;J©druszczak;Konrad;Asystent admin.;Admin.;Kopiarek;$27 081 ;5;53
-34;Figura;Izolda;Technik;In¾.-Techn.;Fax¢w;$29 362 ;3;26
-35;Terlecki;Oktawian;Technik;In¾.-Techn.;Drukarek;$29 362 ;2;21
-36;Zalewski;Augustyn;Technik;In¾.-Techn.;Kopiarek;$29 362 ;5;47
-37;Sienkiewicz;Andrzej;Mˆodszy technik;In¾.-Techn.;Kopiarek;$24 854 ;4;42
-38;Naparstek;Monika;Asystent admin.;Sprzeda¾;Fax¢w;$27 081 ;12;13
-39;Graniecka;Maˆgorzata;Sekretarka zespoˆu;Sprzeda¾;Drukarek;$28 044 ;3;32
-40;Krasiczyäska;Gra¾yna;Sprzedawca;Sprzeda¾;Kopiarek;$41 987 ;6;63
-41;Damska;Teresa;Sekretarka zespoˆu;Zarz¥dzania;Drukarek;$28 044 ;20;21
-42;Gregoruk;Zofia;Sekretarka zespoˆu;Zarz¥dzania;Fax¢w;$28 044 ;8;8
-43;Rosiak;Danuta;Ksi©gowy;Ksi©gowo˜†;Kopiarek;$31 539 ;5;53
-44;BReklamaosz;Franciszek;Mˆodszy ksi©gowy.;Ksi©gowo˜†;Fax¢w;$27 598 ;10;11
-45;G¢recki;Henryk;Mˆodszy ksi©gowy.;Ksi©gowo˜†;Kopiarek;$27 598 ;11;12
-46;Mi©kus;Joanna;Sekretarka zespoˆu;Ksi©gowo˜†;Fax¢w;$29 045 ;30;32
-47;Pankiewicz;Iza;In¾ynier mechanik;In¾.-Techn.;Drukarek;$43 394 ;8;8
-48;Cie˜lak;Maria;Spec. d/s oprog.;In¾.-Techn.;Drukarek;$42 872 ;15;16
-49;Kowalska;Helena;Technik;In¾.-Techn.;Fax¢w;$30 411 ;2;24
-50;Wanad;Teodor;Technik;In¾.-Techn.;Drukarek;$30 411 ;6;7
-51;Ciechowska;Natalia;Sprzedawca;Sprzeda¾;Drukarek;$43 487 ;2;16
-52;Weiss;R¢¾a;Ksi©gowy;Ksi©gowo˜†;Drukarek;$32 627 ;3;32
-53;Bielak;Tadeusz;Mˆodszy ksi©gowy.;Ksi©gowo˜†;Drukarek;$28 550 ;5;47
-54;Pyza;Andrzej;In¾ynier specjalista.;In¾.-Techn.;Drukarek;$62 590 ;3;32
-55;Celejewski;Jerzy;Spec. d/s oprog.;In¾.-Techn.;Kopiarek;$44 351 ;12;13
-56;Salezy;Dariusz;Spec. d/s oprog.;In¾.-Techn.;Drukarek;$44 351 ;6;7
-57;Filipek;Bogdan;Asystent admin.;Sprzeda¾;Kopiarek;$29 015 ;1;11
+21;UrbaÃ¤czyk;Helena;Asystent projektanta;Reklama;Kopiarek;$25 176 ;28;28
+22;Grabowski;PaweÂˆ;Projektant;Reklama;Kopiarek;$30 014 ;7;8
+23;Wojtyra;Wojciech;Asystent admin.;InÄ¾.-Techn.;Drukarek;$25 147 ;1;11
+24;PersiÃ¤ski;Antoni;GÂˆË˜wny inÄ¾ynier;InÄ¾.-Techn.;FaxË˜w;$51 879 ;14;15
+25;NadwiÂ˜laÃ¤ska;Å¥ucja;Sekretarka zespoÂˆu;SprzedaÄ¾;Kopiarek;$26 041 ;7;7
+26;MÄ„czyÃ¤ska;Olga;Specjalista d/s naukowych;ZarzÄ„dzania;Kopiarek;$41 053 ;4;42
+27;LubaÃ¤ska ;Irena;Asystent admin.;Admin.;FaxË˜w;$26 114 ;2;16
+28;Krawczyk;Zygmunt;KsiÂ©gowy;KsiÂ©gowoÂ˜â€ ;Drukarek;$30 452 ;2;21
+29;Hubertus;Marek;MÂˆodszy ksiÂ©gowy.;KsiÂ©gowoÂ˜â€ ;Drukarek;$26 646 ;10;11
+30;Mazowiecka;Dagmara;Sekretarka zespoÂˆu;KsiÂ©gowoÂ˜â€ ;Kopiarek;$28 044 ;4;39
+31;Ochocka;Anna;Sekretarka zespoÂˆu;KsiÂ©gowoÂ˜â€ ;Drukarek;$28 044 ;3;32
+32;NiewÂ©gÂˆowski;Krzysztof;Asystent admin.;Admin.;FaxË˜w;$27 081 ;8;9
+33;JÂ©druszczak;Konrad;Asystent admin.;Admin.;Kopiarek;$27 081 ;5;53
+34;Figura;Izolda;Technik;InÄ¾.-Techn.;FaxË˜w;$29 362 ;3;26
+35;Terlecki;Oktawian;Technik;InÄ¾.-Techn.;Drukarek;$29 362 ;2;21
+36;Zalewski;Augustyn;Technik;InÄ¾.-Techn.;Kopiarek;$29 362 ;5;47
+37;Sienkiewicz;Andrzej;MÂˆodszy technik;InÄ¾.-Techn.;Kopiarek;$24 854 ;4;42
+38;Naparstek;Monika;Asystent admin.;SprzedaÄ¾;FaxË˜w;$27 081 ;12;13
+39;Graniecka;MaÂˆgorzata;Sekretarka zespoÂˆu;SprzedaÄ¾;Drukarek;$28 044 ;3;32
+40;KrasiczyÃ¤ska;GraÄ¾yna;Sprzedawca;SprzedaÄ¾;Kopiarek;$41 987 ;6;63
+41;Damska;Teresa;Sekretarka zespoÂˆu;ZarzÄ„dzania;Drukarek;$28 044 ;20;21
+42;Gregoruk;Zofia;Sekretarka zespoÂˆu;ZarzÄ„dzania;FaxË˜w;$28 044 ;8;8
+43;Rosiak;Danuta;KsiÂ©gowy;KsiÂ©gowoÂ˜â€ ;Kopiarek;$31 539 ;5;53
+44;BReklamaosz;Franciszek;MÂˆodszy ksiÂ©gowy.;KsiÂ©gowoÂ˜â€ ;FaxË˜w;$27 598 ;10;11
+45;GË˜recki;Henryk;MÂˆodszy ksiÂ©gowy.;KsiÂ©gowoÂ˜â€ ;Kopiarek;$27 598 ;11;12
+46;MiÂ©kus;Joanna;Sekretarka zespoÂˆu;KsiÂ©gowoÂ˜â€ ;FaxË˜w;$29 045 ;30;32
+47;Pankiewicz;Iza;InÄ¾ynier mechanik;InÄ¾.-Techn.;Drukarek;$43 394 ;8;8
+48;CieÂ˜lak;Maria;Spec. d/s oprog.;InÄ¾.-Techn.;Drukarek;$42 872 ;15;16
+49;Kowalska;Helena;Technik;InÄ¾.-Techn.;FaxË˜w;$30 411 ;2;24
+50;Wanad;Teodor;Technik;InÄ¾.-Techn.;Drukarek;$30 411 ;6;7
+51;Ciechowska;Natalia;Sprzedawca;SprzedaÄ¾;Drukarek;$43 487 ;2;16
+52;Weiss;RË˜Ä¾a;KsiÂ©gowy;KsiÂ©gowoÂ˜â€ ;Drukarek;$32 627 ;3;32
+53;Bielak;Tadeusz;MÂˆodszy ksiÂ©gowy.;KsiÂ©gowoÂ˜â€ ;Drukarek;$28 550 ;5;47
+54;Pyza;Andrzej;InÄ¾ynier specjalista.;InÄ¾.-Techn.;Drukarek;$62 590 ;3;32
+55;Celejewski;Jerzy;Spec. d/s oprog.;InÄ¾.-Techn.;Kopiarek;$44 351 ;12;13
+56;Salezy;Dariusz;Spec. d/s oprog.;InÄ¾.-Techn.;Drukarek;$44 351 ;6;7
+57;Filipek;Bogdan;Asystent admin.;SprzedaÄ¾;Kopiarek;$29 015 ;1;11
 58;Milewska;Ewa;Asystent admin.;Admin.;Drukarek;$29 983 ;1;5
 59;Chrzanowska;Melisa;Projektant;Reklama;Drukarek;$35 785 ;2;21
-60;Duszczyk;Sˆawomir;Asystent admin.;In¾.-Techn.;Kopiarek;$29 983 ;1;8
-61;Kie˜lowski;Piotr;Asystent admin.;In¾.-Techn.;Fax¢w;$29 983 ;4;42
-62;Anczewski;Stefan;Gˆ¢wny in¾ynier;In¾.-Techn.;Drukarek;$61 856 ;8;9
-63;Wolski;Paweˆ;In¾ynier mechanik;In¾.-Techn.;Kopiarek;$46 387 ;3;32
-64;Dykiel;Teresa;Asystent admin.;Sprzeda¾;Drukarek;$29 983 ;2;24
-65;Kaˆu¾a;Agnieszka;Kierownik zespoˆu;Sprzeda¾;Drukarek;$77 179 ;3;32
-66;Adamiec;Marcin;Sprzedawca;Sprzeda¾;Fax¢w;$46 486 ;2;21
-67;Ostrowska;Barbara;Sekretarka zespoˆu;Zarz¥dzania;Kopiarek;$31 048 ;2;16
-68;Pacuˆa;Katarzyna;Projektant;Reklama;Fax¢w;$36 940 ;6;7
-69;Reszczyäski;Robert;In¾ynier mechanik;In¾.-Techn.;Drukarek;$47 883 ;4;39
-70;W©gier;Barbara;Mˆodszy technik;In¾.-Techn.;Drukarek;$28 405 ;10;11
-71;Grzeszczak;Wojciech;Sprzedawca;Sprzeda¾;Fax¢w;$47 986 ;3;26
-72;Janiszewska;Barbara;Ksi©gowy;Ksi©gowo˜†;Fax¢w;$35 889 ;5;53
-73;Beneka;Piotr;Projektant;Reklama;Fax¢w;$38 094 ;18;19
-74;Szelest;Mieczysˆawa;Sekretarka zespoˆu;In¾.-Techn.;Kopiarek;$33 051 ;5;47
-75;Chojnacki;Lesˆaw;Starszy in¾ynier;In¾.-Techn.;Fax¢w;$50 651 ;11;11
-76;Mianowska;Wanda;Spec. d/s oprog.;In¾.-Techn.;Fax¢w;$48 786 ;9;10
-77;Feler;Izabela;Technik;In¾.-Techn.;Drukarek;$34 605 ;28;30
-78;Jasiäska;Barbara;Asystent admin.;Sprzeda¾;Drukarek;$31 917 ;7;8
-79;Ciechowska;Monika;Sekretarka zespoˆu;Sprzeda¾;Drukarek;$33 051 ;1;11
-80;Mikoˆajczyk;Gra¾yna;Sprzedawca;Sprzeda¾;Drukarek;$49 485 ;14;15
-81;Siedlecki;Daniel;Technik;Zarz¥dzania;Drukarek;$34 605 ;7;8
-82;Wolej;Aneta;Asystent admin.;Admin.;Fax¢w;$32 884 ;4;42
-83;Zach;Karolina;In¾ynier specjalista.;In¾.-Techn.;Kopiarek;$70 935 ;2;16
-84;Barcisz;Patrycja;Kierownik naukowy;Zarz¥dzania;Fax¢w;$57 756 ;2;21
-85;Miejska;Ewelina;Specjalista d/s naukowych;Zarz¥dzania;Drukarek;$53 685 ;10;11
-86;Szafraäska;Zofia;Kierownik sekcji;Admin.;Fax¢w;$72 820 ;4;39
-87;Dziwulski;Juliusz;Starszy in¾ynier;In¾.-Techn.;Drukarek;$53 721 ;3;32
-88;Dudek;Izabela;Mˆodszy technik;In¾.-Techn.;Drukarek;$31 068 ;8;8
-89;Hardy;Benedykt;Kierownik naukowy;Zarz¥dzania;Drukarek;$59 455 ;5;53
-90;Pieäkowski;Dariusz;Kierownik naukowy;Zarz¥dzania;Kopiarek;$59 455 ;3;26
-91;Lechowicz;Stanisˆaw;Asystent admin.;Admin.;Drukarek;$35 786 ;2;21
-92;Jasiäska;Janina;Mˆodszy sprzedawca;Sprzeda¾;Drukarek;$51 340 ;5;47
+60;Duszczyk;SÂˆawomir;Asystent admin.;InÄ¾.-Techn.;Kopiarek;$29 983 ;1;8
+61;KieÂ˜lowski;Piotr;Asystent admin.;InÄ¾.-Techn.;FaxË˜w;$29 983 ;4;42
+62;Anczewski;Stefan;GÂˆË˜wny inÄ¾ynier;InÄ¾.-Techn.;Drukarek;$61 856 ;8;9
+63;Wolski;PaweÂˆ;InÄ¾ynier mechanik;InÄ¾.-Techn.;Kopiarek;$46 387 ;3;32
+64;Dykiel;Teresa;Asystent admin.;SprzedaÄ¾;Drukarek;$29 983 ;2;24
+65;KaÂˆuÄ¾a;Agnieszka;Kierownik zespoÂˆu;SprzedaÄ¾;Drukarek;$77 179 ;3;32
+66;Adamiec;Marcin;Sprzedawca;SprzedaÄ¾;FaxË˜w;$46 486 ;2;21
+67;Ostrowska;Barbara;Sekretarka zespoÂˆu;ZarzÄ„dzania;Kopiarek;$31 048 ;2;16
+68;PacuÂˆa;Katarzyna;Projektant;Reklama;FaxË˜w;$36 940 ;6;7
+69;ReszczyÃ¤ski;Robert;InÄ¾ynier mechanik;InÄ¾.-Techn.;Drukarek;$47 883 ;4;39
+70;WÂ©gier;Barbara;MÂˆodszy technik;InÄ¾.-Techn.;Drukarek;$28 405 ;10;11
+71;Grzeszczak;Wojciech;Sprzedawca;SprzedaÄ¾;FaxË˜w;$47 986 ;3;26
+72;Janiszewska;Barbara;KsiÂ©gowy;KsiÂ©gowoÂ˜â€ ;FaxË˜w;$35 889 ;5;53
+73;Beneka;Piotr;Projektant;Reklama;FaxË˜w;$38 094 ;18;19
+74;Szelest;MieczysÂˆawa;Sekretarka zespoÂˆu;InÄ¾.-Techn.;Kopiarek;$33 051 ;5;47
+75;Chojnacki;LesÂˆaw;Starszy inÄ¾ynier;InÄ¾.-Techn.;FaxË˜w;$50 651 ;11;11
+76;Mianowska;Wanda;Spec. d/s oprog.;InÄ¾.-Techn.;FaxË˜w;$48 786 ;9;10
+77;Feler;Izabela;Technik;InÄ¾.-Techn.;Drukarek;$34 605 ;28;30
+78;JasiÃ¤ska;Barbara;Asystent admin.;SprzedaÄ¾;Drukarek;$31 917 ;7;8
+79;Ciechowska;Monika;Sekretarka zespoÂˆu;SprzedaÄ¾;Drukarek;$33 051 ;1;11
+80;MikoÂˆajczyk;GraÄ¾yna;Sprzedawca;SprzedaÄ¾;Drukarek;$49 485 ;14;15
+81;Siedlecki;Daniel;Technik;ZarzÄ„dzania;Drukarek;$34 605 ;7;8
+82;Wolej;Aneta;Asystent admin.;Admin.;FaxË˜w;$32 884 ;4;42
+83;Zach;Karolina;InÄ¾ynier specjalista.;InÄ¾.-Techn.;Kopiarek;$70 935 ;2;16
+84;Barcisz;Patrycja;Kierownik naukowy;ZarzÄ„dzania;FaxË˜w;$57 756 ;2;21
+85;Miejska;Ewelina;Specjalista d/s naukowych;ZarzÄ„dzania;Drukarek;$53 685 ;10;11
+86;SzafraÃ¤ska;Zofia;Kierownik sekcji;Admin.;FaxË˜w;$72 820 ;4;39
+87;Dziwulski;Juliusz;Starszy inÄ¾ynier;InÄ¾.-Techn.;Drukarek;$53 721 ;3;32
+88;Dudek;Izabela;MÂˆodszy technik;InÄ¾.-Techn.;Drukarek;$31 068 ;8;8
+89;Hardy;Benedykt;Kierownik naukowy;ZarzÄ„dzania;Drukarek;$59 455 ;5;53
+90;PieÃ¤kowski;Dariusz;Kierownik naukowy;ZarzÄ„dzania;Kopiarek;$59 455 ;3;26
+91;Lechowicz;StanisÂˆaw;Asystent admin.;Admin.;Drukarek;$35 786 ;2;21
+92;JasiÃ¤ska;Janina;MÂˆodszy sprzedawca;SprzedaÄ¾;Drukarek;$51 340 ;5;47
 93;Zambrowicz;Romuald;Kierownik sekcji;Admin.;Drukarek;$79 061 ;4;42
-94;Rosiewicz;Olgierd;In¾ynier specjalista.;In¾.-Techn.;Fax¢w;$79 280 ;12;13
-95;Siennicki;Mikoˆaj;Starszy in¾ynier;In¾.-Techn.;Drukarek;$58 326 ;3;32
-96;Anioˆ;Gorzegorz;Spec. d/s oprog.;In¾.-Techn.;Kopiarek;$56 177 ;6;7
-97;Lichwiarz;Janusz;Spec. d/s oprog.;In¾.-Techn.;Drukarek;$56 177 ;20;21
-98;Boroäski;Jerzy;In¾ynier mechanik;In¾.-Techn.;Fax¢w;$58 358 ;8;8
-99;S©kociäska;Elwira;Technik;In¾.-Techn.;Drukarek;$40 897 ;5;53
-100;Kadej;Michaˆ;Kierownik zespoˆu;Sprzeda¾;Kopiarek;$97 096 ;10;11
-101;G¢rski;Aleksander;Sprzedawca;Sprzeda¾;Drukarek;$58 482 ;11;12
-102;Kacprzak;Krzysztof;Specjalista d/s naukowych;Zarz¥dzania;Drukarek;$64 738 ;30;32
-103;Kopernik;Wiesˆaw;Kierownik biura;Admin.;Drukarek;$65 822 ;8;79
-104;Sobiecka ;Renata;Kierownik zespoˆu;Sprzeda¾;Fax¢w;$104 565 ;15;16
-105;Nowak;Marek;Sprzedawca;Sprzeda¾;Kopiarek;$62 981 ;2;24
-106;Kˆosiäski;Cezary;Mˆodszy sprzedawca;Sprzeda¾;Kopiarek;$58 278 ;6;6
-107;Tkaczyk;Zygmunt;Mˆodszy sprzedawca;Sprzeda¾;Drukarek;$58 278 ;2;16
-108;Fedoruk;Dorota;Ksi©gowy;Ksi©gowo˜†;Fax¢w;$47 853 ;3;32
-109;—liwiäska;Zuzanna;Starszy in¾ynier;In¾.-Techn.;Fax¢w;$67 535 ;5;47
-110;Leszczyäska;Maryla;Starszy in¾ynier;In¾.-Techn.;Kopiarek;$69 070 ;3;32
-111;Baranowska;Maria;Mˆodszy sprzedawca;Sprzeda¾;Drukarek;$66 603 ;12;13
-112;Zalesiak;Mieczysˆaw;Gˆ¢wny in¾ynier;In¾.-Techn.;Kopiarek;$105 753 ;6;8
-113;Pszczoˆa;Stefan;In¾ynier mechanik;In¾.-Techn.;Kopiarek;$79 307 ;1;11
-114;½ukowski;Joe;Kierownik sekcji;Admin.;Kopiarek;$116 511 ;1;5
-115;Figura;Michaˆ;Kierownik naukowy;Zarz¥dzania;Kopiarek;$50 000 ;10;10
-116;Figura;Adam;Asystent admin.;Sprzeda¾;Drukarek;$31 917 ;7;8
-117;Figura;Adam;Sprzedawca;Sprzeda¾;Kopiarek;$62 981 ;2;24
-118;Figura;Iza;Starszy in¾ynier;In¾.-Techn.;Fax¢w;$50 651 ;11;11
-119;Figura;Barbara;Asystent admin.;Admin.;Fax¢w;$32 884 ;4;42
-120;Miska;Wˆodzimierz;Asystent admin.;In¾.-Techn.;Kopiarek;$50 651 ;11;11
+94;Rosiewicz;Olgierd;InÄ¾ynier specjalista.;InÄ¾.-Techn.;FaxË˜w;$79 280 ;12;13
+95;Siennicki;MikoÂˆaj;Starszy inÄ¾ynier;InÄ¾.-Techn.;Drukarek;$58 326 ;3;32
+96;AnioÂˆ;Gorzegorz;Spec. d/s oprog.;InÄ¾.-Techn.;Kopiarek;$56 177 ;6;7
+97;Lichwiarz;Janusz;Spec. d/s oprog.;InÄ¾.-Techn.;Drukarek;$56 177 ;20;21
+98;BoroÃ¤ski;Jerzy;InÄ¾ynier mechanik;InÄ¾.-Techn.;FaxË˜w;$58 358 ;8;8
+99;SÂ©kociÃ¤ska;Elwira;Technik;InÄ¾.-Techn.;Drukarek;$40 897 ;5;53
+100;Kadej;MichaÂˆ;Kierownik zespoÂˆu;SprzedaÄ¾;Kopiarek;$97 096 ;10;11
+101;GË˜rski;Aleksander;Sprzedawca;SprzedaÄ¾;Drukarek;$58 482 ;11;12
+102;Kacprzak;Krzysztof;Specjalista d/s naukowych;ZarzÄ„dzania;Drukarek;$64 738 ;30;32
+103;Kopernik;WiesÂˆaw;Kierownik biura;Admin.;Drukarek;$65 822 ;8;79
+104;Sobiecka ;Renata;Kierownik zespoÂˆu;SprzedaÄ¾;FaxË˜w;$104 565 ;15;16
+105;Nowak;Marek;Sprzedawca;SprzedaÄ¾;Kopiarek;$62 981 ;2;24
+106;KÂˆosiÃ¤ski;Cezary;MÂˆodszy sprzedawca;SprzedaÄ¾;Kopiarek;$58 278 ;6;6
+107;Tkaczyk;Zygmunt;MÂˆodszy sprzedawca;SprzedaÄ¾;Drukarek;$58 278 ;2;16
+108;Fedoruk;Dorota;KsiÂ©gowy;KsiÂ©gowoÂ˜â€ ;FaxË˜w;$47 853 ;3;32
+109;â€”liwiÃ¤ska;Zuzanna;Starszy inÄ¾ynier;InÄ¾.-Techn.;FaxË˜w;$67 535 ;5;47
+110;LeszczyÃ¤ska;Maryla;Starszy inÄ¾ynier;InÄ¾.-Techn.;Kopiarek;$69 070 ;3;32
+111;Baranowska;Maria;MÂˆodszy sprzedawca;SprzedaÄ¾;Drukarek;$66 603 ;12;13
+112;Zalesiak;MieczysÂˆaw;GÂˆË˜wny inÄ¾ynier;InÄ¾.-Techn.;Kopiarek;$105 753 ;6;8
+113;PszczoÂˆa;Stefan;InÄ¾ynier mechanik;InÄ¾.-Techn.;Kopiarek;$79 307 ;1;11
+114;Ëukowski;Joe;Kierownik sekcji;Admin.;Kopiarek;$116 511 ;1;5
+115;Figura;MichaÂˆ;Kierownik naukowy;ZarzÄ„dzania;Kopiarek;$50 000 ;10;10
+116;Figura;Adam;Asystent admin.;SprzedaÄ¾;Drukarek;$31 917 ;7;8
+117;Figura;Adam;Sprzedawca;SprzedaÄ¾;Kopiarek;$62 981 ;2;24
+118;Figura;Iza;Starszy inÄ¾ynier;InÄ¾.-Techn.;FaxË˜w;$50 651 ;11;11
+119;Figura;Barbara;Asystent admin.;Admin.;FaxË˜w;$32 884 ;4;42
+120;Miska;WÂˆodzimierz;Asystent admin.;InÄ¾.-Techn.;Kopiarek;$50 651 ;11;11
